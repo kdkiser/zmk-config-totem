@@ -74,6 +74,11 @@
             bindings = <&kp RIGHT_BRACE>;
             key-positions = <28 29>;
         };
+
+        combo_num {
+            bindings = <&kp KP_NUMLOCK>;
+            key-positions = <4 5>;
+        };
     };
 
     macros {
